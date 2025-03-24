@@ -1,4 +1,4 @@
-import { Notification } from '../../components/notification';
+import { Notification } from '@/components/notification';
   
   // In-memory storage for notifications
   const notifications: Notification[] = [];
