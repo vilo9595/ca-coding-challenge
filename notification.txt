@@ -1,0 +1,5 @@
+{
+    "type": "Warning",
+    "name": "Test Message",
+    "description": "This message will be forwarded"
+}
