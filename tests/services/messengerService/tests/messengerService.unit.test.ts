@@ -1,5 +1,5 @@
 import { forwardToMessenger } from '@/services/messengerService/messengerService'; 
-import { warning } from '@/tests/routes/notifications/notifications.mockData'; 
+import { warning } from '@/tests/routes/notificationsAPI/notifications.mockData'; 
 
 // Test suite for the forwardToMessenger function
 describe('forwardToMessenger', () => {

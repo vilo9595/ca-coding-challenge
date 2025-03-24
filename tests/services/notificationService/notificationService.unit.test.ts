@@ -1,5 +1,5 @@
 import { storeNotification, getNotifications } from '@/services/notificationService/notificationService'; 
-import { warning, info } from '@/tests/routes/notifications/notifications.mockData'; 
+import { warning, info } from '@/tests/routes/notificationsAPI/notifications.mockData'; 
 
 // Test suite for the notificationService functions
 describe('notificationService', () => {
